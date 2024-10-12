@@ -1,0 +1,4 @@
+name: AntiVPN
+version: '1.0-SNAPSHOT'
+main: de.phillip.antiVPN.AntiVPN
+api-version: '1.21'

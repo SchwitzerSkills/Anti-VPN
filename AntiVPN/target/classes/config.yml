@@ -1,0 +1,5 @@
+active: true
+logger: true
+KickMessage: "&c%player% &7vpn is forbidden"
+KickCommand: "/kick %player% %KickMessage%"
+allowVPNIPS: [185.182.193.75, 10.10.10.10]
